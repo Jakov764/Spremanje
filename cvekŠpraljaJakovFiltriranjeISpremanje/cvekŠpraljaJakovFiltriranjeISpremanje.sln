@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cvekŠpraljaJakovFiltriranjeISpremanje", "cvekŠpraljaJakovFiltriranjeISpremanje\cvekŠpraljaJakovFiltriranjeISpremanje.csproj", "{2EF647A2-3DA1-49BB-B320-E8160CC31E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF647A2-3DA1-49BB-B320-E8160CC31E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF647A2-3DA1-49BB-B320-E8160CC31E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF647A2-3DA1-49BB-B320-E8160CC31E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF647A2-3DA1-49BB-B320-E8160CC31E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24824F13-18EE-43E0-838C-C78FE4275513}
+	EndGlobalSection
+EndGlobal
